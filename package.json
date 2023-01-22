@@ -1,0 +1,43 @@
+{
+  "name": "project",
+  "version": "2.0.2",
+  "description": "For work",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "team",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "latest",
+    "browser-sync": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-concat": "latest",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-newer": "latest",
+    "gulp-notify": "latest",
+    "gulp-postcss": "latest",
+    "gulp-rename": "latest",
+    "gulp-rigger": "latest",
+    "gulp-sass": "^4.1.0",
+    "gulp-svgmin": "latest",
+    "gulp-svgstore": "latest",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglify-es": "latest",
+    "gulp-webp": "latest",
+    "vinyl-ftp": "latest"
+  },
+  "dependencies": {
+    "gulp-cached": "^1.1.1",
+    "gulp-dependents": "^1.2.5"
+  }
+}
